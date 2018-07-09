@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name Downloads)(type KiCad)(uri /Users/richec03/Downloads)(options "")(descr ""))
+  (lib (name custom)(type KiCad)(uri "$(KIPRJMOD)/custom.pretty")(options "")(descr ""))
 )
